@@ -4,8 +4,8 @@
  *    Tuba Farm Equipment
  *    Variables and functions
  *    
- *    Author: 
- *    Date:   
+ *    Author: Ethan Gruenemeier  
+ *    Date: 8.7.19 
 
  *    Filename: tuba.js
  */
